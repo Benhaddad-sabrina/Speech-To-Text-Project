@@ -10,3 +10,4 @@ soundfile
 sentencepiece
 torchaudio
 pydub
+requests
